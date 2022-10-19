@@ -1,5 +1,7 @@
 # React Typescript Starter Kit
 
+![Screenshot 2022-10-19 at 3 05 55 PM](https://user-images.githubusercontent.com/25225956/196730977-3619828d-afb9-4540-b465-411cd160f269.png)
+
 This is a bare-bore react project scaffolded using...
 - React + Vite
 - Typescript
